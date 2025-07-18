@@ -37,4 +37,5 @@ descriptions, and the specific products involved.
 - Final intergration and Publishing
 
 # This is the final look of the dashboard 
-<a href="https://github.com/itsadil-7890/Data-Analysis-Dashboard/blob/main/Dashboard%201.png"> Dashboard Photo</a>
+<img width="1600" height="900" alt="Dashboard 1" src="https://github.com/user-attachments/assets/178bc0a4-1c37-43ad-8c40-56c29d10db9a" />
+
