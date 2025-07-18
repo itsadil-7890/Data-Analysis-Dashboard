@@ -34,4 +34,7 @@ descriptions, and the specific products involved.
 - Defining KPI's & Metrices
 - Create Visualization
 - Enhance Interactivitiy
-- Final intergration and Publishing 
+- Final intergration and Publishing
+
+# This is the final look of the dashboard 
+<a href="https://github.com/itsadil-7890/Data-Analysis-Dashboard/blob/main/Dashboard%201.png"> Dashboard Photo</a>
