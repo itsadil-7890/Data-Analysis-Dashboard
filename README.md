@@ -16,8 +16,22 @@ related to credit cards, sourced from a publicly available database. It consists
 86,893 entries and 25 columns, each capturing critical information about the nature 
 of the complaint, how it was submitted, and how it was handled by the respective 
 companies.
-# Key Features of the Dataset: 
+## Key Features of the Dataset: 
 - Time Range: Covers complaints received between 2016 and 2021.
 - Complaint Details: Includes complaint categories, sub-issues, narrative 
 descriptions, and the specific products involved.
 -  Submission Methods: Captures how consumers submitted their complaints  via web, phone, email, fax, postal mail, or referrals.
+-  Company Responses: Lists how companies responded whether the complaint was closed with or without relief, if there was a monetary resolution, or if the response was untimely.
+-  Geographic Coverage: Contains state-wise data and ZIP codes, enabling regional trend analysis.
+-  Status: Indicates whether a complaint is closed, in progress, or disputed.
+-   Timeliness & Resolution: Tracks if the company provided a timely response and the average number of days taken to address complaints.
+
+# Steps Involved in the Overall Project 
+- Defining the objective
+- Data collection
+- Data cleaning
+- Designing the dashboard layout
+- Defining KPI's & Metrices
+- Create Visualization
+- Enhance Interactivitiy
+- Final intergration and Publishing 
